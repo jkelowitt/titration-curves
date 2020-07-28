@@ -4,3 +4,5 @@ An excel sheet which creates titration curves based on Concentration, Kas and vo
 Calculated and formatted through macros.
 
 These equations are from Quantitative Chemical Analysis (9th ed.) by Daniel C. Harris.
+
+Superseded by [Titration Generator](https://github.com/jkelowitt/titration-generator)
